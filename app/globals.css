@@ -19,3 +19,12 @@ body {
   background: var(--background);
   font-synthesis: none;
 }
+
+
+.scrollbar-hide::-webkit-scrollbar{
+  display: none;
+}
+
+.scrollbar-hide{
+  scrollbar-width: none;
+}
