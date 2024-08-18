@@ -66,7 +66,6 @@ export default function Post() {
               <span className="hidden md:inline"> Comments</span>
             </span>
           </div>
-         
         </div>
         <div className="">
           <div className="flex items-center gap-4 bg-slate-50 p-2 rounded-xl">
@@ -83,7 +82,7 @@ export default function Post() {
               <span className="hidden md:inline"> Shares</span>
             </span>
           </div>
-          </div>
+        </div>
       </div>
       <Comments />
     </div>
